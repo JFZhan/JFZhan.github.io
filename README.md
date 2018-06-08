@@ -1,2 +1,2 @@
-# JFZhan.github.io
-blog
+welcome to JFu.Zhan blog
+
